@@ -6,7 +6,11 @@
 **Tengo 18 años**
 
 Vivo en [Betxi](https://www.google.com/search?q=betxi&oq=betxi&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQLhiDARixAxiABDIGCAIQRRhAMggIAxBFGCcYOzIHCAQQABiABDIHCAUQABiABDINCAYQLhivARjHARiABDIHCAcQABiABNIBCDYwNzlqMGo3qAIAsAIA&client=ubuntu-chr&sourceid=chrome&ie=UTF-8)
-- 📫 How to reach me ...
+### Sitos que me gustan
+1. El Tormo
+2. Betxi
+3. Bernabeu
+   
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
