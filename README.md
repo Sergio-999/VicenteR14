@@ -1,12 +1,13 @@
 # 👋 Soy Vicente
 *Cosas que me gustan*
-* Informatica 
-* Futbol
+* Informatica 💻
+* Futbol ⚽
   
 **Tengo 18 años**
 
 Vivo en [Betxi](https://www.google.com/search?q=betxi&oq=betxi&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQLhiDARixAxiABDIGCAIQRRhAMggIAxBFGCcYOzIHCAQQABiABDIHCAUQABiABDINCAYQLhivARjHARiABDIHCAcQABiABNIBCDYwNzlqMGo3qAIAsAIA&client=ubuntu-chr&sourceid=chrome&ie=UTF-8)
-### Sitos que me gustan
+
+### Sitos que me gustan ❤️
 1. [El Tormo](https://turismocirat.com/visitar/el-tormo/)
 2. Betxi
 3. Bernabeu
